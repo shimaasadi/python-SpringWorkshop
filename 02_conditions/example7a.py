@@ -10,7 +10,7 @@ userguess = int(input("what's your guess?"))
 
 if userguess == computerguess:
     print("congrats! you got it ")
-elif (computerguess == 1 + userguess) and (computerguess == -1 + userguess):
+elif (computerguess == 1 + userguess) or (computerguess == -1 + userguess):
     print("you were so close!")
 else:
     print("sorry! the number was ", computerguess)
