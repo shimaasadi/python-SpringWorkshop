@@ -2,6 +2,7 @@
 # عدد اول را در متغیر x
 # و عدد دوم را در متغیر y
 # قرار داده و سپس جای این دو مقدار را با استفاده از یک متغیر کمکی، جاجا کند
+#Write a program that receives two numbers and stores them in variables x and y. Without using a temporary variable, swap the values of x and y.
 
 x = int(input("Enter x: "))
 y = int(input("Enter y: "))
