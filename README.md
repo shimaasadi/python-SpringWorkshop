@@ -31,4 +31,4 @@ This repository contains code examples, exercises, and resources used throughout
 * Fork the repository and complete the exercises.
 * Use the Issues tab if you have questions.
 
-Happy Coding! 🚀
+Happy Coding! 
